@@ -1,0 +1,16 @@
+.head{width: 40%;
+	height: auto;
+	position: sticky;
+	
+}
+p{
+	background-image: url(freelancehead.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#travel{
+	background-image: url(travel1.jpg);
+	background-position: top;background-repeat: no-repeat;
+	width: 100%;
+	background-size: cover;
+}

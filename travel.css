@@ -1,0 +1,12 @@
+#travel{
+	background-image: url(travel.jpg);
+	background-position: top;background-repeat: no-repeat;
+	width: 99%;
+	background-size: cover;
+}
+#explore{
+	background-image: url(explore.jpg);
+	
+	background-repeat: no-repeat;
+	background-size: cover;width: 100%;
+}
